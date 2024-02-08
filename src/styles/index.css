@@ -1,0 +1,10 @@
+@import "./reset.css";
+@import "./global.css";
+@import "./header.css";
+@import "./homepage.css";
+@import "./reasons.css";
+@import "./popup.css";
+body {
+  overflow-x: hidden;
+  max-width: 1440px;
+}
